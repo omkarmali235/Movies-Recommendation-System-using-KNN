@@ -1,6 +1,6 @@
 # Movie Recommender System
 > *"A simple Movie recommender using python and GUI using Tkinter. I used KNN Recommender System which is based on Collaborative Filtering"*
-![](/Collaborative Filtering.png)
+![](/CollaborativeFiltering.png)
 ## Table of Contents
 * [Installation](#installation)
 * [Data](#data)
